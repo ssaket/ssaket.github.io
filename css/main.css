@@ -1,0 +1,138 @@
+a{
+    text-decoration: none;
+	font-family:'Nunito';
+	font-weight: 300;
+    color: #7510cc;
+}
+a:hover{
+    text-decoration: none;
+	color: #2B064C;
+}
+
+.header{
+    display: block;
+    max-width: 65%;
+    margin: 7% auto;
+    font-size: 1.1em;
+    margin-bottom: 3%;
+}
+
+.nav-border{
+	border-bottom-style:solid;
+	border-width: 1px;
+	border-color: white; /*#e6e6ff;*/
+	font-family: 'Rubik', sans-serif;
+}
+
+.nav-name{
+	font-family:'Ubuntu', sans-serif;
+	font-weight: normal;
+}
+
+.footer{
+    bottom: 0px;
+	width: 100%;
+}
+
+.my-name{
+	color:#767676;
+}
+
+.interests{
+/*	font-family:'Nunito';*/
+/*	font-weight: 250;*/
+/*	color: #7510cc;*/
+}
+
+.email{
+	font-family: monospace;
+	background: #1111;
+	font-size: 1.12em;
+	padding: 0.1em;
+}
+
+.menu-link {
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.68rem;
+    color: #61676b;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: rgb(27, 31, 44);
+}
+
+.content {
+    width: 100%;
+	max-width: 895px;
+    margin: 5% auto;
+	font-weight: normal;
+/*	font-family: 'Roboto', sans-serif;*/
+}
+
+.textn{
+	font-weight: 250;
+}
+
+/* my photo */
+.my-picture{
+    max-width: 230px;
+    margin-top: 15%;
+}
+.info-link{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(67, 66, 70); 
+}
+
+.logo {
+    max-width: 64px;
+}
+
+.sketch-font{
+	font-family: 'Pacifico', cursive;
+}
+
+.sketch-content{
+	font-size: 1.2rem;
+	font-family: 'Caveat', cursive;
+}
+
+.sketch-back{
+	font-size: 1.5rem;
+}
+
+.csstransforms{
+  /* Abs positioning makes it not take up vert space */
+  position: absolute;
+  top: 15%;
+  left: 4%;
+
+  /* Border is the new background */
+  background: none;
+  text-decoration: underline;
+
+  /* Rotate from top left corner (not default) */
+  transform-origin: 0 0;
+  transform: rotate(-30deg);
+  /* Safari */
+  -webkit-transform: rotate(-30deg);
+  /* Firefox */
+  -moz-transform: rotate(-30deg);
+  
+}
+
+a.csstransforms{
+	color: black;
+	hover: none;
+	font-size:1.2rem;
+}
+
+#lifeEvents img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  width: 170px;
+}

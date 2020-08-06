@@ -1,0 +1,187 @@
+/********************* Commons ************************************/
+body {
+    /* color: #5c5c50; */
+    color: #4d4d43;
+    background-color: white; 
+    /* // #fefbf3; */
+}
+a{
+    text-decoration: none;
+    color: #7510cc;
+}
+a:hover{
+    text-decoration: none;
+    /* background-color: #dedede; */
+}
+
+
+.header{
+    display: block;
+    max-width: 65%;
+    margin: 5% auto;
+    font-size: 1.1em;
+}
+
+.footer{
+    position: relative;
+    bottom: 1em;
+    left: 0;
+    display: block;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.menu-link {
+    font-family: 'Rubik', sans-serif;
+	font-size: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.68rem;
+    color: #61676b;
+     /* rgb(107, 104, 104); */
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: rgb(27, 31, 44);
+}
+
+/*Icons */
+.icons{
+    margin: 1.5% auto;
+}
+.github{
+    width: 3em;
+}
+.twitter{
+    width: 42px;
+}
+.linkedin{
+    width: 3em;
+}
+.m-icons{
+    visibility: hidden;
+}
+
+.navigation{
+    position: fixed;
+    top: 0.5rem;
+    right: 0.2rem;
+}
+
+
+/********************* About ***********************************/
+.content {
+    width: 100%;
+    margin: 5% auto;
+    max-width: 888px;
+    /* text-align: justify; */
+/*    font-family: 'Roboto', sans-serif;*/
+}
+
+/* my photo */
+.my-picture{
+    max-width: 230px;
+    margin-top: 15%;
+}
+.info-link{
+    text-decoration: none;
+    /* font-style: italic; */
+    font-weight: bolder;
+    color: rgb(67, 66, 70); 
+}
+
+.interests{
+    font-family:'Roboto;
+}
+
+/*********************** Work Experience ****************************/ 
+.logo {
+    max-width: 64px;
+}
+
+.isDisabled {
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.icon-box{
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+#c-list{
+    max-width: 80%;
+    margin: 3em auto;
+    /* text-align: justify; */
+}
+#social_icons {
+    display: none;
+}
+.side-icon{
+    font-size: 1.3em;
+    padding: 1.1em;
+    color: #3f3f38;
+}
+
+
+/* -- Responsive Styles (Media Queries) ------------------------------------- */
+
+
+@media (max-width: 48em) {
+    /* Only apply this when the window is small. Otherwise, the following
+    case results in extra padding on the left:
+        * Make the window small.
+        * Tap the menu to trigger the active state.
+        * Make the window large again.
+    */
+    .my-picture{
+        width: 100%;
+        display: block;
+        max-width: 12em;
+        margin: auto;
+    }
+    .about{
+        width: 100%;
+        max-width: fit-content;
+        margin: 2rem auto;
+    }
+    .icons{
+        display: none !important;
+    }
+    .m-icons{
+        visibility: visible;
+    }
+    .footer{
+        position: relative;
+        bottom: 1em;
+        left: 0;
+        display: block;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+    }
+    #info > p{
+        margin-top: 2rem;
+    }
+}
+/* @media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+    .content {
+        font-weight: lighter !important;
+    }
+} */
+
+@media not all and (min-resolution:.001dpcm)
+{ @supports (-webkit-appearance:none) and (stroke-color:transparent) {
+    /* .content{ */
+        /* font-family: 'Open Sans', sans-serif; */
+        /* font-weight: 100 !important; */
+    /* } */
+}
+}
