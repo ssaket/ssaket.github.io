@@ -7,7 +7,7 @@
       "category" : "",
       "tags"     : "typography",
       "date"     : "2019-08-31 00:00:00 +0200",
-      "discription" : "What is the difference between various font formats?"
+      "description" : "What is the difference between various font formats?"
 
     } ,
   
@@ -18,7 +18,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2019-07-23 00:00:00 +0200",
-      "discription" : "Generating comments on static sites with Staticman"
+      "description" : "Generating comments on static sites with Staticman"
 
     } ,
   
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "netlify, coding, security",
       "date"     : "2019-05-23 00:00:00 +0200",
-      "discription" : "Increase the security of your Netlify website by adding security headers"
+      "description" : "Increase the security of your Netlify website by adding security headers"
 
     } ,
   
@@ -40,7 +40,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-12-23 00:00:00 +0100",
-      "discription" : "Enable syntax highlighting in your site"
+      "description" : "Enable syntax highlighting in your site"
 
     } ,
   
@@ -51,7 +51,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-11-12 00:00:00 +0100",
-      "discription" : "How to set a custom CSS or JS for each page"
+      "description" : "How to set a custom CSS or JS for each page"
 
     } ,
   
@@ -62,7 +62,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-09-20 00:00:00 +0200",
-      "discription" : "The reading time indicator for your website"
+      "description" : "The reading time indicator for your website"
 
     } ,
   
@@ -73,7 +73,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-09-11 00:00:00 +0200",
-      "discription" : "Generate an Atom (RSS-like) feed of your Jekyll posts"
+      "description" : "Generate an Atom (RSS-like) feed of your Jekyll posts"
 
     } ,
   
@@ -84,7 +84,7 @@
       "category" : "",
       "tags"     : "coding, wordpress",
       "date"     : "2018-08-18 00:00:00 +0200",
-      "discription" : "Wordpress plugins that I deem as a necessity for everyone"
+      "description" : "Wordpress plugins that I deem as a necessity for everyone"
 
     } ,
   
@@ -95,7 +95,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-06-14 00:00:00 +0200",
-      "discription" : "How to install Jekyll using Homebrew"
+      "description" : "How to install Jekyll using Homebrew"
 
     } ,
   
@@ -106,7 +106,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-06-07 00:00:00 +0200",
-      "discription" : "How to apply the active class for the current page in Jekyll"
+      "description" : "How to apply the active class for the current page in Jekyll"
 
     } ,
   
@@ -117,7 +117,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-05-13 00:00:00 +0200",
-      "discription" : "A Liquid tag for Jekyll sites that allows embedding Gists"
+      "description" : "A Liquid tag for Jekyll sites that allows embedding Gists"
 
     } ,
   
@@ -128,7 +128,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-02-05 00:00:00 +0100",
-      "discription" : "How to disable Jekyll&#39;s default syntax highlighter"
+      "description" : "How to disable Jekyll&#39;s default syntax highlighter"
 
     } ,
   
@@ -139,7 +139,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-02-03 00:00:00 +0100",
-      "discription" : "Using an image caption in Jekyll"
+      "description" : "Using an image caption in Jekyll"
 
     } ,
   
@@ -150,7 +150,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-01-17 00:00:00 +0100",
-      "discription" : "Obtaining the word count from a post in Jekyll"
+      "description" : "Obtaining the word count from a post in Jekyll"
 
     } ,
   
@@ -161,7 +161,7 @@
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2017-11-15 00:00:00 +0100",
-      "discription" : "Serve custom 404 error pages with Jekyll"
+      "description" : "Serve custom 404 error pages with Jekyll"
 
     } ,
   
@@ -172,7 +172,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2017-11-10 00:00:00 +0100",
-      "discription" : "How to Redirect Pages in Jekyll"
+      "description" : "How to Redirect Pages in Jekyll"
 
     } ,
   
@@ -183,7 +183,7 @@
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2017-01-03 00:00:00 +0100",
-      "discription" : "Using data folder to build Jekyll navigation"
+      "description" : "Using data folder to build Jekyll navigation"
 
     } ,
   
@@ -194,7 +194,7 @@
       "category" : "",
       "tags"     : "seo",
       "date"     : "2016-12-11 00:00:00 +0100",
-      "discription" : "Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs"
+      "description" : "Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs"
 
     } ,
   
@@ -205,7 +205,7 @@
       "category" : "",
       "tags"     : "coding",
       "date"     : "2016-11-27 00:00:00 +0100",
-      "discription" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer"
+      "description" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer"
 
     } ,
   
@@ -216,7 +216,7 @@
       "category" : "",
       "tags"     : "coding",
       "date"     : "2015-07-31 00:00:00 +0200",
-      "discription" : "There many different options to learn to code online, so in this article, find places you can learn to code"
+      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code"
 
     } ,
   
@@ -227,7 +227,7 @@
       "category" : "",
       "tags"     : "css",
       "date"     : "2014-05-12 00:00:00 +0200",
-      "discription" : "This is a collection of short CSS snippets I thought might be useful for beginners"
+      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners"
 
     } 
   

@@ -3,15 +3,15 @@ url: https://ssaket.github.io
 title: Saket Saurabh
 description: Blog
 twitter:
-  username: #yourusername
+  username: sqsakrt
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: ssaket
+  twitter: sqsaket
+  name: #yourusername
   avatar:
-  email: 
-  url: 
+  email: #youremail
+  url: #yoururl
 permalink: pretty
 
 baseurl: "/blog"
