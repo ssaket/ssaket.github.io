@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://saket.github.io/sitemap.xml
+Sitemap: https://saket.github.io/blog/sitemap.xml

@@ -3,7 +3,7 @@
     {
 
       "title"    : "Difference between font formats",
-      "url"      : "/blog/2019/08/31/difference-between-font-formats",
+      "url"      : "/2019/08/31/difference-between-font-formats",
       "category" : "",
       "tags"     : "typography",
       "date"     : "2019-08-31 00:00:00 +0200",
@@ -14,7 +14,7 @@
     {
 
       "title"    : "Staticman comments on a Jekyll site",
-      "url"      : "/blog/2019/07/23/staticman-comments-on-a-jekyll-site",
+      "url"      : "/2019/07/23/staticman-comments-on-a-jekyll-site",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2019-07-23 00:00:00 +0200",
@@ -25,7 +25,7 @@
     {
 
       "title"    : "Adding HTTP response headers to a Netlify static website",
-      "url"      : "/blog/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
+      "url"      : "/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
       "category" : "",
       "tags"     : "netlify, coding, security",
       "date"     : "2019-05-23 00:00:00 +0200",
@@ -36,7 +36,7 @@
     {
 
       "title"    : "Syntax highlight with Rouge in Jekyll",
-      "url"      : "/blog/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
+      "url"      : "/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-12-23 00:00:00 +0100",
@@ -47,7 +47,7 @@
     {
 
       "title"    : "Page specific assets in Jekyll",
-      "url"      : "/blog/2018/11/12/page-specific-assets-in-jekyll",
+      "url"      : "/2018/11/12/page-specific-assets-in-jekyll",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-11-12 00:00:00 +0100",
@@ -58,7 +58,7 @@
     {
 
       "title"    : "Jekyll reading time without plugins",
-      "url"      : "/blog/2018/09/20/jekyll-reading-time-without-plugins",
+      "url"      : "/2018/09/20/jekyll-reading-time-without-plugins",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-09-20 00:00:00 +0200",
@@ -69,7 +69,7 @@
     {
 
       "title"    : "How to add an RSS feed to a Jekyll blog",
-      "url"      : "/blog/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog",
+      "url"      : "/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-09-11 00:00:00 +0200",
@@ -80,7 +80,7 @@
     {
 
       "title"    : "Top plugins for Wordpress websites",
-      "url"      : "/blog/2018/08/18/top-plugins-for-wordpress-websites",
+      "url"      : "/2018/08/18/top-plugins-for-wordpress-websites",
       "category" : "",
       "tags"     : "coding, wordpress",
       "date"     : "2018-08-18 00:00:00 +0200",
@@ -91,7 +91,7 @@
     {
 
       "title"    : "Install Jekyll on Mac OS",
-      "url"      : "/blog/2018/06/14/install-jekyll-on-mac-os",
+      "url"      : "/2018/06/14/install-jekyll-on-mac-os",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-06-14 00:00:00 +0200",
@@ -102,7 +102,7 @@
     {
 
       "title"    : "Applying the active class for the current page in Jekyll",
-      "url"      : "/blog/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
+      "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-06-07 00:00:00 +0200",
@@ -113,7 +113,7 @@
     {
 
       "title"    : "Displaying GitHub Gists in Jekyll sites",
-      "url"      : "/blog/2018/05/13/displaying-github-gists-in-jekyll-sites",
+      "url"      : "/2018/05/13/displaying-github-gists-in-jekyll-sites",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-05-13 00:00:00 +0200",
@@ -124,7 +124,7 @@
     {
 
       "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "url"      : "/blog/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
+      "url"      : "/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2018-02-05 00:00:00 +0100",
@@ -135,7 +135,7 @@
     {
 
       "title"    : "Image caption in Jekyll",
-      "url"      : "/blog/2018/02/03/image-captions-in-jekyll",
+      "url"      : "/2018/02/03/image-captions-in-jekyll",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-02-03 00:00:00 +0100",
@@ -146,7 +146,7 @@
     {
 
       "title"    : "Showing the word count in Jekyll",
-      "url"      : "/blog/2018/01/17/showing-the-word-count",
+      "url"      : "/2018/01/17/showing-the-word-count",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2018-01-17 00:00:00 +0100",
@@ -157,7 +157,7 @@
     {
 
       "title"    : "Custom 404 page for Jekyll on Github pages",
-      "url"      : "/blog/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
+      "url"      : "/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
       "category" : "",
       "tags"     : "jekyll, coding",
       "date"     : "2017-11-15 00:00:00 +0100",
@@ -168,7 +168,7 @@
     {
 
       "title"    : "Redirect Jekyll URLs",
-      "url"      : "/blog/2017/11/10/redirect-jekyll-urls",
+      "url"      : "/2017/11/10/redirect-jekyll-urls",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2017-11-10 00:00:00 +0100",
@@ -179,7 +179,7 @@
     {
 
       "title"    : "Creating navigation menu in Jekyll",
-      "url"      : "/blog/2017/01/03/creating-navigation-menu-in-jekyll",
+      "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
       "category" : "",
       "tags"     : "coding, jekyll",
       "date"     : "2017-01-03 00:00:00 +0100",
@@ -190,7 +190,7 @@
     {
 
       "title"    : "Structured Data markup validation and testing tools",
-      "url"      : "/blog/2016/12/11/structured-data-markup-validation-and-testing-tools",
+      "url"      : "/2016/12/11/structured-data-markup-validation-and-testing-tools",
       "category" : "",
       "tags"     : "seo",
       "date"     : "2016-12-11 00:00:00 +0100",
@@ -201,7 +201,7 @@
     {
 
       "title"    : "Top monospaced fonts for coding",
-      "url"      : "/blog/2016/11/27/top-monospaced-fonts-for-coding",
+      "url"      : "/2016/11/27/top-monospaced-fonts-for-coding",
       "category" : "",
       "tags"     : "coding",
       "date"     : "2016-11-27 00:00:00 +0100",
@@ -212,7 +212,7 @@
     {
 
       "title"    : "Places where you can learn how to code",
-      "url"      : "/blog/2015/07/31/places-where-you-can-learn-how-to-code",
+      "url"      : "/2015/07/31/places-where-you-can-learn-how-to-code",
       "category" : "",
       "tags"     : "coding",
       "date"     : "2015-07-31 00:00:00 +0200",
@@ -223,7 +223,7 @@
     {
 
       "title"    : "CSS hacks you may not know",
-      "url"      : "/blog/2014/05/12/css-hacks-you-may-not-know",
+      "url"      : "/2014/05/12/css-hacks-you-may-not-know",
       "category" : "",
       "tags"     : "css",
       "date"     : "2014-05-12 00:00:00 +0200",

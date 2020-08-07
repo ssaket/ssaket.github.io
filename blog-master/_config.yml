@@ -1,5 +1,5 @@
 site: Saket Saurabh
-url: https://saket.github.io
+url: https://saket.github.io/blog
 title: Saket Saurabh
 description: Blog
 twitter:
@@ -14,7 +14,7 @@ author:
   url: 
 permalink: pretty
 
-baseurl: "/blog"
+baseurl: ""
 
 highlighter: none
 
