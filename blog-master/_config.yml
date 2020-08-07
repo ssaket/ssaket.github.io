@@ -1,7 +1,7 @@
-site: Sidey
+site: Saket Saurabh
 url: saket.github.io
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Saket Saurabh
+description: Blog
 twitter:
   username: #yourusername
   card: summary
@@ -14,7 +14,7 @@ author:
   url: 
 permalink: pretty
 
-baseurl: ""
+baseurl: "/blog"
 
 highlighter: none
 
