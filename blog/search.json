@@ -2,12 +2,12 @@
   
     {
 
-      "title"    : "Using Z Score In Probability",
+      "title"    : "Using Z score in Probability",
       "url"      : "/blog/2020/04/12/using-z-score-in-probability",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "probability",
       "date"     : "2020-04-12 00:00:00 +0200",
-      "description" : ""
+      "description" : "short introduction on how to find the z scores for normal distribution."
 
     } 
   

@@ -4,7 +4,7 @@
  <title>Saket Saurabh</title>
  <link href="http://localhost:4000/blog/atom.xml" rel="self"/>
  <link href="http://localhost:4000/blog/"/>
- <updated>2020-09-01T02:38:17+02:00</updated>
+ <updated>2020-09-01T02:55:18+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,17 +13,11 @@
 
  
  <entry>
-   <title>Using Z Score In Probability</title>
+   <title>Using Z score in Probability</title>
    <link href="http://localhost:4000/blog/2020/04/12/using-z-score-in-probability"/>
    <updated>2020-04-12T00:00:00+02:00</updated>
    <id>http://localhost:4000/2020/04/12/using-z-score-in-probability</id>
-   <content type="html">&lt;p&gt;layout: post
-title: Using Z score in Probability
-description: short introduction on how to find the z scores for normal distribution.
-summary: short introduction on how to find the z scores for normal distribution.
-tags: [probability]&lt;/p&gt;
-
-&lt;h4 id=&quot;understanding-normal-distribution&quot;&gt;Understanding Normal distribution&lt;/h4&gt;
+   <content type="html">&lt;h4 id=&quot;understanding-normal-distribution&quot;&gt;Understanding Normal distribution&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -44,7 +38,7 @@ tags: [probability]&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;probability density function (pdf)&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;assets/images/image-20200901013024552.png&quot; alt=&quot;image-20200901013024552&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;image-20200901013024552.png&quot; alt=&quot;image-20200901013024552&quot; /&gt;&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;very complex to find the area under the curve between 2 points&lt;/li&gt;
@@ -58,7 +52,7 @@ tags: [probability]&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Transform any normal distribution to standard normal distribution, basically it is the standard by which all other normal distribution are measured.&lt;/li&gt;
   &lt;li&gt;Mean -&amp;gt; 0 and Standard deviation -&amp;gt; 1&lt;/li&gt;
-  &lt;li&gt;pdf  &lt;img src=&quot;assets/images/image-20200901013745337.png&quot; alt=&quot;image-20200901013745337&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;pdf  &lt;img src=&quot;image-20200901013745337.png&quot; alt=&quot;image-20200901013745337&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h6 id=&quot;standard-scores-z-scores--z-values&quot;&gt;Standard Scores (z scores / z values)&lt;/h6&gt;
@@ -75,7 +69,7 @@ tags: [probability]&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Subtract the mean, to get the normal distribution centered at 0.&lt;/li&gt;
   &lt;li&gt;Divide by the standard deviation to normalize.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/images/image-20200901014748437.png&quot; alt=&quot;image-20200901014748437&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;image-20200901014748437.png&quot; alt=&quot;image-20200901014748437&quot; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h5 id=&quot;steps-for-finding-probabilities-for-a-normal-distribution-&quot;&gt;Steps for finding probabilities for a normal distribution :&lt;/h5&gt;
