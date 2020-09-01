@@ -4,8 +4,6 @@ description: short introduction on how to find the z scores for normal distribut
 summary: short introduction on how to find the z scores for normal distribution.
 tags: [probability]
 
-### 
-
 #### Understanding Normal distribution
 
 - Very common probability model used to describe many random phenomena.
@@ -20,7 +18,7 @@ tags: [probability]
 
 - probability density function (pdf)
 
-    ![image-20200901013024552](/Users/saketsaurabh/Library/Application Support/typora-user-images/image-20200901013024552.png)
+    ![image-20200901013024552](assets/images/image-20200901013024552.png)
 
     - very complex to find the area under the curve between 2 points
     - use z table to find find probabilities for any normal distribution
@@ -29,7 +27,7 @@ tags: [probability]
 
 - Transform any normal distribution to standard normal distribution, basically it is the standard by which all other normal distribution are measured.
 - Mean -> 0 and Standard deviation -> 1
-- pdf  ![image-20200901013745337](/Users/saketsaurabh/Library/Application Support/typora-user-images/image-20200901013745337.png)
+- pdf  ![image-20200901013745337](assets/images/image-20200901013745337.png)
 
 ###### Standard Scores (z scores / z values)
 
@@ -42,7 +40,7 @@ tags: [probability]
 
 1. Subtract the mean, to get the normal distribution centered at 0.
 2. Divide by the standard deviation to normalize.
-3. ![image-20200901014748437](/Users/saketsaurabh/Library/Application Support/typora-user-images/image-20200901014748437.png)
+3. ![image-20200901014748437](assets/images/image-20200901014748437.png)
 
 ##### Steps for finding probabilities for a normal distribution :
 
