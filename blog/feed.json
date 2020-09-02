@@ -13,6 +13,27 @@
 "items": [
     
         {
+            "id": "https://ssaket.github.io/blog/2020/04/16/random-variables-and-bionomial-distribution",
+            "title": "Random Variables and Binomial distribution",
+            "summary": "short introduction on random variables and binomial distribution.",
+            "content_text": "[TOC]Foundation      Random Variables    Discrete : They are the ones which have finite values and can also take countable infinite number of values.For example, X may be the total number of time heads turn up when we toss a fair coin 100times or total number of times we call our best friend in a month.  Continuous : They are the ones which have uncountably infinite number of values - so many that we can’t even think about counting them.For example, measuring the speed of the neutrons in the large hadron collider after a collision experiment or national 8th standard maths average of a country.      Cumulative distribution function (cdf)  Sum of all probabilities for X that are equal to or less than a (value)      Expected Value and Variance    Expected value: long-term average value after repeating an experiment theoretically infinite number of times.          How to calculate:                  Multiply the value of x by its probability for all X          Sum the results.                      Variance: expected amount of variability in our results after repeating an experiment infinite number of times.          How to calculate:                  Subtract E(x) from x, and square, then multiply by the probability.          Sum the results.                    Binomial Distribution      involves only two outcome (yes, no) or (success, failure) or (0, 1)        Checking conditions:          Fixed number of trials      Classify the outcome into only two groups      Probability of success is same for each trial      Independent trials            pmf =     here, n is the fixed number of trials.    x is the specified number of successes.    p is the probability of success of any given trial        cdf = sum the pmf untill x or use the binomial table  ",
+            "content_html": "<p>[TOC]</p><h3 id=\"foundation\">Foundation</h3><ul>  <li>    <h4 id=\"random-variables\">Random Variables</h4>  </li></ul><blockquote>  <p><u>Discrete</u> : They are the ones which have finite values and can also take countable infinite number of values.</p></blockquote><p>For example, X may be the total number of time heads turn up when we toss a fair coin 100times or total number of times we call our best friend in a month.</p><blockquote>  <p><u>Continuous</u> : They are the ones which have uncountably infinite number of values - so many that we can’t even think about counting them.</p></blockquote><p>For example, measuring the speed of the neutrons in the large hadron collider after a collision experiment or national 8<sup>th</sup> standard maths average of a country.</p><ul>  <li>    <h4 id=\"cumulative-distribution-function-cdf\">Cumulative distribution function (cdf)</h4>  </li></ul><p>Sum of all probabilities for X that are equal to or less than a (value)</p><p><img src=\"image-20200902021141595.png\" alt=\"image-20200902021141595\" /></p><ul>  <li>    <h4 id=\"expected-value-and-variance\">Expected Value and Variance</h4>    <p><u>Expected value</u>: long-term average value after repeating an experiment theoretically infinite number of times.</p>    <ul>      <li>How to calculate:        <ul>          <li>Multiply the value of x by its probability for all X</li>          <li>Sum the results.</li>        </ul>      </li>    </ul>    <p><u>Variance</u>: expected amount of variability in our results after repeating an experiment infinite number of times.</p>    <ul>      <li>How to calculate:        <ul>          <li>Subtract E(x) from x, and square, then multiply by the probability.</li>          <li>Sum the results.</li>        </ul>      </li>    </ul>  </li></ul><h3 id=\"binomial-distribution\">Binomial Distribution</h3><ul>  <li>    <p>involves only two outcome (yes, no) or (success, failure) or (0, 1)</p>  </li>  <li>    <p>Checking conditions:</p>    <ul>      <li>Fixed number of trials</li>      <li>Classify the outcome into only two groups</li>      <li>Probability of success is same for each trial</li>      <li>Independent trials</li>    </ul>  </li>  <li>    <p>pmf = <img src=\"image-20200902023951023.png\" alt=\"image-20200902023951023\" /></p>    <p>here, n is the fixed number of trials.</p>    <p>x is the specified number of successes.</p>    <p>p is the probability of success of any given trial</p>  </li>  <li>    <p>cdf = sum the pmf untill x or use the binomial table</p>  </li></ul>",
+            "url": "https://ssaket.github.io/blog/2020/04/16/random-variables-and-bionomial-distribution",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-16T00:00:00+02:00",
+            "date_modified": "2020-04-16T00:00:00+02:00",
+            
+                "author": 
+                "{"twitter"=>"sqsaket", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "https://ssaket.github.io/blog/2020/04/12/using-z-score-in-probability",
             "title": "Using Z score in Probability",
             "summary": "short introduction on how to find the z scores for normal distribution.",

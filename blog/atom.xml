@@ -4,13 +4,111 @@
  <title>Saket Saurabh</title>
  <link href="https://ssaket.github.io/blog/atom.xml" rel="self"/>
  <link href="https://ssaket.github.io/blog/"/>
- <updated>2020-09-01T02:56:07+02:00</updated>
+ <updated>2020-09-02T02:54:54+02:00</updated>
  <id>https://ssaket.github.io</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Random Variables and Binomial distribution</title>
+   <link href="https://ssaket.github.io/blog/2020/04/16/random-variables-and-bionomial-distribution"/>
+   <updated>2020-04-16T00:00:00+02:00</updated>
+   <id>https://ssaket.github.io/2020/04/16/random-variables-and-bionomial-distribution</id>
+   <content type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h3 id=&quot;foundation&quot;&gt;Foundation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;random-variables&quot;&gt;Random Variables&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;Discrete&lt;/u&gt; : They are the ones which have finite values and can also take countable infinite number of values.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For example, X may be the total number of time heads turn up when we toss a fair coin 100times or total number of times we call our best friend in a month.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;Continuous&lt;/u&gt; : They are the ones which have uncountably infinite number of values - so many that we can’t even think about counting them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For example, measuring the speed of the neutrons in the large hadron collider after a collision experiment or national 8&lt;sup&gt;th&lt;/sup&gt; standard maths average of a country.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;cumulative-distribution-function-cdf&quot;&gt;Cumulative distribution function (cdf)&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sum of all probabilities for X that are equal to or less than a (value)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;image-20200902021141595.png&quot; alt=&quot;image-20200902021141595&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;expected-value-and-variance&quot;&gt;Expected Value and Variance&lt;/h4&gt;
+
+    &lt;p&gt;&lt;u&gt;Expected value&lt;/u&gt;: long-term average value after repeating an experiment theoretically infinite number of times.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;How to calculate:
+        &lt;ul&gt;
+          &lt;li&gt;Multiply the value of x by its probability for all X&lt;/li&gt;
+          &lt;li&gt;Sum the results.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;u&gt;Variance&lt;/u&gt;: expected amount of variability in our results after repeating an experiment infinite number of times.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;How to calculate:
+        &lt;ul&gt;
+          &lt;li&gt;Subtract E(x) from x, and square, then multiply by the probability.&lt;/li&gt;
+          &lt;li&gt;Sum the results.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;binomial-distribution&quot;&gt;Binomial Distribution&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;involves only two outcome (yes, no) or (success, failure) or (0, 1)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Checking conditions:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Fixed number of trials&lt;/li&gt;
+      &lt;li&gt;Classify the outcome into only two groups&lt;/li&gt;
+      &lt;li&gt;Probability of success is same for each trial&lt;/li&gt;
+      &lt;li&gt;Independent trials&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pmf = &lt;img src=&quot;image-20200902023951023.png&quot; alt=&quot;image-20200902023951023&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;here, n is the fixed number of trials.&lt;/p&gt;
+
+    &lt;p&gt;x is the specified number of successes.&lt;/p&gt;
+
+    &lt;p&gt;p is the probability of success of any given trial&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;cdf = sum the pmf untill x or use the binomial table&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Using Z score in Probability</title>

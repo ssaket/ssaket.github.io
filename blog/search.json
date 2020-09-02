@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Random Variables and Binomial distribution",
+      "url"      : "/blog/2020/04/16/random-variables-and-bionomial-distribution",
+      "category" : "",
+      "tags"     : "probability",
+      "date"     : "2020-04-16 00:00:00 +0200",
+      "description" : "short introduction on random variables and binomial distribution."
+
+    } ,
+  
+    {
+
       "title"    : "Using Z score in Probability",
       "url"      : "/blog/2020/04/12/using-z-score-in-probability",
       "category" : "",
