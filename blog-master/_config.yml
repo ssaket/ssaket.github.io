@@ -2,6 +2,7 @@ site: Saket Saurabh
 url: https://ssaket.github.io
 title: Saket Saurabh
 description: Blog
+markdown: kramdown
 twitter:
   username: sqsakrt
   card: summary
